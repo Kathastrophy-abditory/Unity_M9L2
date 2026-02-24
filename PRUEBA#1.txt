@@ -1,1 +1,1 @@
-print("I give up");
+print("I give up :3");
